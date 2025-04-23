@@ -1,11 +1,2 @@
-hello Git! 666
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Git!
 hello Git! master test
 hello Git! hot-fix test
-888888
-7777777
-1
